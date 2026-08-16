@@ -41,5 +41,14 @@
     "completed_at": 1786895646.496048,
     "comments": [],
     "status": "Completed"
+  },
+  {
+    "exercise_name": "staging-intervention",
+    "started_at": 1786895957.319017,
+    "completed_at": 1786895958.676801,
+    "comments": [
+      "Great work! You have successfully fixed the attendance system!"
+    ],
+    "status": "Completed"
   }
 ]
