@@ -302,14 +302,5 @@
       "You have successfully completed the exercise!"
     ],
     "status": "Completed"
-  },
-  {
-    "exercise_name": "glossary-branch-push",
-    "started_at": 1787497566.779919,
-    "completed_at": 1787497570.066607,
-    "comments": [
-      "Branch 'PQR' has not been pushed to the remote."
-    ],
-    "status": "Incomplete"
   }
 ]
